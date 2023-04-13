@@ -1,0 +1,180 @@
+.pro-details p {
+    line-height: 25px;
+}
+
+.logo img {
+    max-height: 80px
+}
+
+@media (min-width:992px) {
+    .pro-list-one .pro-img:hover:after {
+        background: #634638
+    }
+
+    #news-list>li:hover,
+    #nav li .submenu li:hover,
+    .banner-btn>div:hover,
+    #banner .swiper-pagination-bullet {
+        background-color: #634638
+    }
+
+    #news-list>li:hover .ind-btn a:hover,
+    .search-icon i,
+    #nav li:hover>a {
+        color: #634638
+    }
+}
+
+.about-data>li>span,
+.reason-ul li:hover h3,
+.indAbout-ul .ind-hover a:hover,
+.indAbout-ul .ind-hover h3 a,
+.tit-h2 span,
+.ind-pro:hover span,
+.company-contact li:hover a {
+    color: #634638
+}
+
+.company-contact .contact-us i,
+.foot-share ul li:hover a,
+.inner-right .nav-list:hover>a,
+.inner-right .sf-menu .currentProType,
+.inner-right .sf-menu a:hover {
+    color: #634638
+}
+
+.latest-products li:hover p,
+.pro-list-one:hover h3 a,
+.pro-info-con h1,
+.pro-details-tit,
+.contact-way h1,
+.contact-ul h3,
+.news-con-tit h1,
+#news-list>li.newsitem-nopic:hover h3 a {
+    color: #634638
+}
+
+.search-from #btnSearch,
+#banner .swiper-pagination-bullet-active,
+.reason-ul li:hover i,
+.ind-btn a:before,
+.idx-news-list li:hover,
+.foot-tit:after,
+.ind-pro:hover .ind-pro-con i:after,
+.ind-pro:hover .ind-pro-con i:before,
+.pro-list-one .pro-img:hover i:after,
+.pro-list-one .pro-img:hover i:before {
+    background-color: #634638
+}
+
+.foot-bot,
+.addresss,
+.inner-right .tit,
+.inner-right .sf-menu .LiLevel1>a:after,
+.pro-info-con .LayImAhrefNode,
+.spec-scroll .next:hover,
+.spec-scroll .prev:hover,
+.inner #feedbackForm .submita {
+    background-color: #634638;
+}
+
+.reason-ul li:hover,
+.company-contact li:hover:after,
+.inner-right li:hover i:before,
+.latest-products li:hover i,
+.spec-scroll .items ul li span.active,
+.spec-scroll .items ul li span:hover {
+    border-color: #634638
+}
+
+.pages a:hover,
+.pages span.ctxt {
+    background: #634638;
+    border-color: #634638;
+}
+
+.ind-btn a,
+.pro-info-con .sendInquiry {
+    border-color: #634638;
+    color: #634638
+}
+
+.change-page>div:hover a {
+    text-decoration-color: #634638;
+    color: #634638
+}
+
+.indAbout-ul li span,
+.ind-pro .ind-pro-con {
+    background: #634638;
+}
+
+@media (max-width:991px) {
+    .pro-list-one h3 a {
+        color: #634638
+    }
+}
+
+.floatwindow_sidebox li i,
+.floatwindow_sidebox li span {
+    background: #634638 !important;
+}
+
+.floatwindow_sidebox .floatwindow_top i {
+    background-color: #b3b3b3 !important;
+}
+
+.ind-about .tit-h2 span {
+    text-transform: uppercase
+}
+
+.header-con {
+    height: 90px;
+}
+
+.indAbout-ul>li {
+    flex-basis: calc(20% - 15px);
+    width: calc(20% - 15px);
+}
+
+.pro-details p {
+    font-size: 16px;
+}
+
+.tit-h2 {
+    text-transform: uppercase;
+    color: #634638
+}
+
+.indAbout-ul li>span {
+    display: none;
+}
+
+.indAbout-ul .ind-hover {
+    display: none !important
+}
+
+.indAbout-ul>li i img {
+    transition: all .3s ease-in-out;
+}
+
+.indAbout-ul>li i {
+    overflow: hidden
+}
+
+.indAbout-ul>li i:hover img {
+    transform: scale(1.2)
+}
+
+.inds-1>.container {
+    width: 1440px;
+    max-width: 100%;
+}
+
+.indAbout-ul {
+    flex-wrap: wrap;
+}
+
+.indAbout-ul>li i a {
+    width: 100%;
+}
